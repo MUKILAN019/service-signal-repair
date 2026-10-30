@@ -1,0 +1,6 @@
+{
+  "metric": "cpu_ratio",
+  "threshold": 0.8,
+  "window_seconds": 30,
+  "runbook": "missing.md"
+}

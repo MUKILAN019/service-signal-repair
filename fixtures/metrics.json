@@ -1,0 +1,6 @@
+{
+  "latency_p95_seconds": 0.24,
+  "requests_total": 10000,
+  "error_ratio": 0.012,
+  "cpu_ratio": 0.42
+}

@@ -1,0 +1,6 @@
+{
+  "window": "2026-10-01T00:00:00Z/2026-10-30T00:00:00Z",
+  "requests": 10000,
+  "errors": 120,
+  "objective_percent": 99.0
+}
