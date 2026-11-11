@@ -1,6 +1,6 @@
 {
-  "metric": "cpu_ratio",
-  "threshold": 0.8,
-  "window_seconds": 30,
-  "runbook": "missing.md"
+  "metric": "error_ratio",
+  "threshold": 0.05,
+  "window_seconds": 60,
+  "runbook": "ops/runbook.md"
 }

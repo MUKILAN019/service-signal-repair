@@ -1,6 +1,6 @@
 {
-  "latency": "requests_total",
-  "traffic": "error_ratio",
-  "errors": "cpu_ratio",
-  "saturation": "latency_p95_seconds"
+  "latency": "latency_p95_seconds",
+  "traffic": "requests_total",
+  "errors": "error_ratio",
+  "saturation": "cpu_ratio"
 }
